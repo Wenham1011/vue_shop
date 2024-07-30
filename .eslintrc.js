@@ -17,6 +17,7 @@ module.exports = {
     'object-curly-spacing': 0,
     'quote-props': 0,
     'no-trailing-spaces': 0,
-    'vue/no-unused-vars': 0
+    'vue/no-unused-vars': 0,
+    'quotes': 0
   }
 }
