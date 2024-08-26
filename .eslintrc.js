@@ -18,6 +18,7 @@ module.exports = {
     'quote-props': 0,
     'no-trailing-spaces': 0,
     'vue/no-unused-vars': 0,
-    'quotes': 0
+    'quotes': 0,
+    'brace-style': 0
   }
 }
