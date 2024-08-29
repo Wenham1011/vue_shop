@@ -17,3 +17,7 @@ html,body,#app{
 .el-pagination{
     margin-top: 10px;
 }
+
+.ql-editor{
+    min-height: 300px;
+}
