@@ -35,7 +35,8 @@ import {
   Steps,
   Step,
   Upload,
-  Timeline
+  Timeline,
+  Empty
 } from 'element-ui'
 
 Vue.use(Button)
@@ -72,5 +73,6 @@ Vue.use(Steps)
 Vue.use(Step)
 Vue.use(Upload)
 Vue.use(Timeline)
+Vue.use(Empty)
 Vue.prototype.$message = Message
 Vue.prototype.$confirm = MessageBox.confirm
